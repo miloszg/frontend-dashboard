@@ -1,0 +1,27 @@
+{
+    "app.text": "Edit src/App.js and save to reload!",
+    "app.welcome": "Welcome",
+    "app.welcome.link": "Go to: tasks",
+    "app.tasks.header": "Tasks",
+    "app.tasks.description": "Description",
+    "app.tasks.employee": "Employee",
+    "app.tasks.date": "Deadline",
+    "app.tasks.checkbox": "Is task completed?",
+    "app.tasks.button": "Save",
+    "app.tasks.menu": "Menu",
+    "app.tasks.menu.login": "Login",
+    "app.tasks.done": "Done",
+    "app.tasks.update": "Update",
+    "app.tasks.delete": "Delete",
+    "app.tasks.add": "Add",
+    "app.error.message": "An error occured!",
+    "app.login.invalid": "Invalid Credencials",
+    "app.login.successful": "Login Successful",
+    "app.login.username": "User Name: ",
+    "app.login.password": "Password: ",
+    "app.tasks.menu.logout": "Logout",
+    "app.tasks.description.error": "Enter the description of the task!",
+    "app.tasks.targetDate.error": "Enter a valid date!",
+    "app.tasks.employee.error": "Enter the name of the employee!"
+
+}
